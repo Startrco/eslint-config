@@ -10,6 +10,7 @@ module.exports = {
   ],
   env: {
     jest: true,
+    browser: true,
   },
   plugins: ['import', 'prettier', 'jest', 'eslint-comments'],
   rules: {
