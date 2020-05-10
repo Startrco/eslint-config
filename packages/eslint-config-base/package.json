@@ -1,6 +1,6 @@
 {
   "name": "@startrco/eslint-config-base",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eslint config for JS",
   "keywords": [
     "eslint",
