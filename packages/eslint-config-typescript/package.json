@@ -1,0 +1,32 @@
+{
+  "name": "@startrco/eslint-config-typescript",
+  "description": "Startr TypeScript ESLint config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/startrco/eslint-config"
+  },
+  "bugs": {
+    "url": "https://github.com/startrco/eslint-config/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/startrco/eslint-config",
+  "keywords": [
+    "eslint",
+    "config",
+    "startrco",
+    "typescript"
+  ],
+  "peerDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "@startrco/eslint-config-base": "^1.0.2",
+    "@typescript-eslint/eslint-plugin": "^4.8.2",
+    "@typescript-eslint/parser": "^4.8.2"
+  }
+}

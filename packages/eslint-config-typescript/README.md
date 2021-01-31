@@ -1,0 +1,1 @@
+# @startrco/eslint-config-typescript
