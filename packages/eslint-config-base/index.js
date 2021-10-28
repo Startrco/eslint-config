@@ -14,6 +14,14 @@ module.exports = {
   },
   plugins: ['import', 'prettier', 'jest', 'eslint-comments'],
   rules: {
-    'prettier/prettier': ['error'],
+    'prettier/prettier': [
+      'error',
+      {
+        printWidth: 100,
+        singleQuote: true,
+        trailingComma: 'all',
+        bracketSpacing: true,
+      },
+    ],
   },
 };
