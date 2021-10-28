@@ -1,7 +1,7 @@
 {
   "name": "@startrco/eslint-config-typescript",
   "description": "Startr TypeScript ESLint config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "index.js",
   "license": "MIT",
   "repository": {
@@ -25,7 +25,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "@startrco/eslint-config-base": "^1.0.2",
+    "@startrco/eslint-config-base": "^1.0.3",
     "@typescript-eslint/eslint-plugin": "^4.8.2",
     "@typescript-eslint/parser": "^4.8.2"
   }
